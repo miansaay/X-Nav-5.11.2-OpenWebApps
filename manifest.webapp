@@ -2,11 +2,11 @@
   "version": "1.0",
   "name": "Geolocation",
   "description": "Geolocation mobile app",
-  "launch_path": "/index.html",
+  "launch_path": "http://miansaay.github.io/X-Nav-5.11.2-OpenWebApps/index.html",
   "icons": {
-      "16": "/images/maps-icon16.png",
-      "48": "/images/maps-icon48.png",
-      "128": "/images/maps-icon128.png"
+      "16": "http://miansaay.github.io/X-Nav-5.11.2-OpenWebApps/images/maps-icon16.png",
+      "48": "http://miansaay.github.io/X-Nav-5.11.2-OpenWebApps/images/maps-icon48.png",
+      "128": "http://miansaay.github.io/X-Nav-5.11.2-OpenWebApps/images/maps-icon128.png"
    },
   "developer": {
       "name": "Miguel Angel Sainz Ayuso",
