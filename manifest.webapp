@@ -1,5 +1,5 @@
 {
-  "version": "0.1",
+  "version": "1.0",
   "name": "Geolocation",
   "description": "Geolocation mobile app",
   "launch_path": "/index.html",
@@ -7,17 +7,16 @@
       "16": "/images/maps-icon16.png",
       "48": "/images/maps-icon48.png",
       "128": "/images/maps-icon128.png"
-  },
-"developer": {
-"name": "Miguel Angel Sainz Ayuso",
-"url": "https://github.com/miansaay"
-},
-"default_locale": "en",
-"permissions": {
-  "geolocation": {
-    "description": "Access to your position"
-  }
-},
-"chrome": { "navigation": true}
-
+   },
+  "developer": {
+      "name": "Miguel Angel Sainz Ayuso",
+      "url": "https://github.com/miansaay"
+    },
+  "default_locale": "en",
+  "permissions": {
+     "geolocation": {
+        "description": "Access to your position"
+       }
+    },
+  "chrome": { "navigation": true}
 }
